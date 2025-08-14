@@ -1,5 +1,5 @@
 ls
 
-ls-1
+ls-l
 
 pwd
