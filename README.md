@@ -14,4 +14,17 @@ Here are the topics
 
 #importing functions and variables
 
-we can import functions and variables using 'source' command. Meaning if we have a file with variables and functions declared then we can source that file and all those variables and functions will be inherited into this shell programme what we are running.
+we can import functions and variables using 'source' command. 
+Meaning if we have a file with variables and functions declared then we can source that 
+file and all those variables and functions will be inherited into this shell programme what we are running.
+
+- in shell function inside a function will work
+
+#REDIRECTORS
+
+command > output (>Symbol will redirect the output of command to that output file)
+command < Input (< symbol will load the input from that file input)
+
+Output is two types
+
+command &>output (&> symbol will redirect both output and error)
