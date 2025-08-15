@@ -4,7 +4,7 @@
 
 x=10
 
-if we have any special characters in the RHS then we can provide that in quotes
+#if we have any special characters in the RHS then we can provide that in quotes
 x1="abc 123"
 
 #access the variables
