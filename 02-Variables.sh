@@ -13,3 +13,20 @@ x1="abc 123"
 file=1.txt
 touch $file
 cp $file 2.txt
+
+#Dynamic declaration of variables
+
+#command substitution
+#syntax: var=$(command)
+
+list_of_files=$(ls)
+echo $list_of_files
+
+#Arithmetic Substitution
+#syntax: var=$((expression))
+
+add=$((2+3))
+echo $add
+
+
+
