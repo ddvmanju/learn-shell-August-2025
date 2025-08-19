@@ -28,3 +28,5 @@ command < Input (< symbol will load the input from that file input)
 Output is two types
 
 command &>output (&> symbol will redirect both output and error)
+
+https://man7.org/linux/man-pages/man1/man.1.html
